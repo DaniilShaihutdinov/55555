@@ -140,9 +140,22 @@
   },
   "active": "8e003379ad77ca32",
   "lastOpenFiles": [
-    "index.html",
-    "iindex.html",
-    "i.html",
-    "Новый текстовый документ.txt"
+    "lib/search-index.json",
+    "lib/metadata.json",
+    "lib/styles/obsidian.css",
+    "lib/styles/main-styles.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles",
+    "lib/scripts/graph-data.js",
+    "lib/media/favicon.png",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/media",
+    "lib/scripts/minisearch.js",
+    "lib/scripts/pixi.js",
+    "lib/scripts/tinycolor.js",
+    "07-внутреннее-трение-и-теплопроводность/img/img-vmpzo_.png",
+    "07-внутреннее-трение-и-теплопроводность/img/img-k5ohug.png",
+    "07-внутреннее-трение-и-теплопроводность/img/20240417104103.png",
+    "05-средняя-длина-свободного-пробега-и-число-столкновений/img/unnamed.gif"
   ]
 }

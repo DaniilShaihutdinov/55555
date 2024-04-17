@@ -1,0 +1,588 @@
+{
+  "vaultName": "4444",
+  "lastExport": 1713350032919,
+  "pluginVersion": "1.8.01",
+  "validBodyClasses": "publish css-settings-manager theme-light show-inline-title",
+  "useCustomHeadContent": false,
+  "useCustomFavicon": false,
+  "files": [
+    "01-Введение/README.md",
+    "02-Броуновское движение/img/Translational_motion.gif",
+    "02-Броуновское движение/README.md",
+    "03-Законы идеального газа. Уравнение Менделеева-Клайперона/img/im14.png",
+    "03-Законы идеального газа. Уравнение Менделеева-Клайперона/README.md",
+    "04-Барометрическая формула. Распределение Больцмана/README.md",
+    "05-Средняя длина свободного пробега и число столкновений/img/unnamed.gif",
+    "05-Средняя длина свободного пробега и число столкновений/README.md",
+    "06-Диффузия в газах/README.md",
+    "07-Внутреннее трение и теплопроводность/img/123",
+    "07-Внутреннее трение и теплопроводность/img/20240417104103.png",
+    "07-Внутреннее трение и теплопроводность/img/img-K5oHug.png",
+    "07-Внутреннее трение и теплопроводность/img/img-VmPzo_.png",
+    "07-Внутреннее трение и теплопроводность/README.md",
+    "08-Первое начало термодинамики/img/img-8z8Hga.png",
+    "08-Первое начало термодинамики/img/img-rQw2WM.png",
+    "08-Первое начало термодинамики/img/img-umX2ZP.png",
+    "08-Первое начало термодинамики/img/img-VkWXYI.png",
+    "08-Первое начало термодинамики/README.md",
+    "img/Pasted.md",
+    "04-Барометрическая формула",
+    "README.md",
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "mainDependencies": [
+    "lib/fonts/94f2f163d4b698242fef.otf",
+    "lib/fonts/72505e6a122c6acd5471.woff2",
+    "lib/fonts/2d5198822ab091ce4305.woff2",
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+    "lib/fonts/cb10ffd7684cd9836a05.woff2",
+    "lib/fonts/b5f0f109bc88052d4000.woff2",
+    "lib/fonts/cbe0ae49c52c920fd563.woff2",
+    "lib/fonts/535a6cf662596b3bd6a6.woff2",
+    "lib/fonts/70cc7ff27245e82ad414.ttf",
+    "lib/fonts/454577c22304619db035.ttf",
+    "lib/fonts/52ac8f3034507f1d9e53.ttf",
+    "lib/fonts/05b618077343fbbd92b7.ttf",
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "lib/fonts/MathJax_Zero.woff",
+    "lib/fonts/MathJax_Main-Regular.woff",
+    "lib/fonts/MathJax_Main-Bold.woff",
+    "lib/fonts/MathJax_Math-Italic.woff",
+    "lib/fonts/MathJax_Main-Italic.woff",
+    "lib/fonts/MathJax_Math-BoldItalic.woff",
+    "lib/fonts/MathJax_Size1-Regular.woff",
+    "lib/fonts/MathJax_Size2-Regular.woff",
+    "lib/fonts/MathJax_Size3-Regular.woff",
+    "lib/fonts/MathJax_Size4-Regular.woff",
+    "lib/fonts/MathJax_AMS-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Regular.woff",
+    "lib/fonts/MathJax_Calligraphic-Bold.woff",
+    "lib/fonts/MathJax_Fraktur-Regular.woff",
+    "lib/fonts/MathJax_Fraktur-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Regular.woff",
+    "lib/fonts/MathJax_SansSerif-Bold.woff",
+    "lib/fonts/MathJax_SansSerif-Italic.woff",
+    "lib/fonts/MathJax_Script-Regular.woff",
+    "lib/fonts/MathJax_Typewriter-Regular.woff",
+    "lib/fonts/MathJax_Vector-Regular.woff",
+    "lib/fonts/MathJax_Vector-Bold.woff"
+  ],
+  "fileInfo": {
+    "lib/fonts/94f2f163d4b698242fef.otf": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 66800,
+      "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
+      "dependencies": []
+    },
+    "lib/fonts/72505e6a122c6acd5471.woff2": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 104232,
+      "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/2d5198822ab091ce4305.woff2": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 104332,
+      "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 98868,
+      "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cb10ffd7684cd9836a05.woff2": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 106876,
+      "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/b5f0f109bc88052d4000.woff2": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 105804,
+      "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/cbe0ae49c52c920fd563.woff2": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 106108,
+      "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/535a6cf662596b3bd6a6.woff2": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 111708,
+      "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
+      "dependencies": []
+    },
+    "lib/fonts/70cc7ff27245e82ad414.ttf": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 192740,
+      "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/454577c22304619db035.ttf": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 161376,
+      "exportedPath": "lib/fonts/454577c22304619db035.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/52ac8f3034507f1d9e53.ttf": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 191568,
+      "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/05b618077343fbbd92b7.ttf": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 155288,
+      "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
+      "dependencies": []
+    },
+    "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 7876,
+      "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
+      "dependencies": []
+    },
+    "lib/media/874d8b8e340f75575caa.svg": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 317,
+      "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_zero.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/mathjax_zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-regular.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/mathjax_main-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-bold.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/mathjax_main-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-italic.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/mathjax_math-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_main-italic.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/mathjax_main-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_math-bolditalic.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size1-regular.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size2-regular.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size3-regular.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_size4-regular.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_ams-regular.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-regular.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_calligraphic-bold.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-regular.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_fraktur-bold.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-regular.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-bold.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_sansserif-italic.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_script-regular.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/mathjax_script-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_typewriter-regular.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-regular.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/mathjax_vector-bold.woff": {
+      "modifiedTime": 1713350017365,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
+      "dependencies": []
+    },
+    "01-Введение/README.md": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 8135,
+      "exportedPath": "01-Введение/README.html",
+      "dependencies": []
+    },
+    "02-Броуновское движение/img/Translational_motion.gif": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 407552,
+      "exportedPath": "02-Броуновское движение/img/Translational_motion.gif",
+      "dependencies": []
+    },
+    "02-Броуновское движение/README.md": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 4877,
+      "exportedPath": "02-Броуновское движение/README.html",
+      "dependencies": []
+    },
+    "03-Законы идеального газа. Уравнение Менделеева-Клайперона/img/im14.png": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 97899,
+      "exportedPath": "03-Законы идеального газа. Уравнение Менделеева-Клайперона/img/im14.png",
+      "dependencies": []
+    },
+    "03-Законы идеального газа. Уравнение Менделеева-Клайперона/README.md": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 4879,
+      "exportedPath": "03-Законы идеального газа. Уравнение Менделеева-Клайперона/README.html",
+      "dependencies": []
+    },
+    "04-Барометрическая формула. Распределение Больцмана/README.md": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 5422,
+      "exportedPath": "04-Барометрическая формула. Распределение Больцмана/README.html",
+      "dependencies": []
+    },
+    "05-Средняя длина свободного пробега и число столкновений/img/unnamed.gif": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 1608,
+      "exportedPath": "05-Средняя длина свободного пробега и число столкновений/img/unnamed.gif",
+      "dependencies": []
+    },
+    "05-Средняя длина свободного пробега и число столкновений/README.md": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 5798,
+      "exportedPath": "05-Средняя длина свободного пробега и число столкновений/README.html",
+      "dependencies": []
+    },
+    "06-Диффузия в газах/README.md": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 6730,
+      "exportedPath": "06-Диффузия в газах/README.html",
+      "dependencies": []
+    },
+    "07-Внутреннее трение и теплопроводность/img/123": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 5043,
+      "exportedPath": "07-Внутреннее трение и теплопроводность/img/123/123.",
+      "dependencies": []
+    },
+    "07-Внутреннее трение и теплопроводность/img/20240417104103.png": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 1969,
+      "exportedPath": "07-Внутреннее трение и теплопроводность/img/20240417104103.png",
+      "dependencies": []
+    },
+    "07-Внутреннее трение и теплопроводность/img/img-K5oHug.png": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 2370,
+      "exportedPath": "07-Внутреннее трение и теплопроводность/img/img-K5oHug.png",
+      "dependencies": []
+    },
+    "07-Внутреннее трение и теплопроводность/img/img-VmPzo_.png": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 3258,
+      "exportedPath": "07-Внутреннее трение и теплопроводность/img/img-VmPzo_.png",
+      "dependencies": []
+    },
+    "07-Внутреннее трение и теплопроводность/README.md": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 7881,
+      "exportedPath": "07-Внутреннее трение и теплопроводность/README.html",
+      "dependencies": []
+    },
+    "08-Первое начало термодинамики/img/img-8z8Hga.png": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 1890,
+      "exportedPath": "08-Первое начало термодинамики/img/img-8z8Hga.png",
+      "dependencies": []
+    },
+    "08-Первое начало термодинамики/img/img-rQw2WM.png": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 1834,
+      "exportedPath": "08-Первое начало термодинамики/img/img-rQw2WM.png",
+      "dependencies": []
+    },
+    "08-Первое начало термодинамики/img/img-umX2ZP.png": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 2507,
+      "exportedPath": "08-Первое начало термодинамики/img/img-umX2ZP.png",
+      "dependencies": []
+    },
+    "08-Первое начало термодинамики/img/img-VkWXYI.png": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 1334,
+      "exportedPath": "08-Первое начало термодинамики/img/img-VkWXYI.png",
+      "dependencies": []
+    },
+    "08-Первое начало термодинамики/README.md": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 7190,
+      "exportedPath": "08-Первое начало термодинамики/README.html",
+      "dependencies": []
+    },
+    "img/Pasted.md": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 0,
+      "exportedPath": "img/Pasted.html",
+      "dependencies": []
+    },
+    "04-Барометрическая формула": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 2,
+      "exportedPath": "04-Барометрическая формула/04-Барометрическая формула.",
+      "dependencies": []
+    },
+    "README.md": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 165,
+      "exportedPath": "README.html",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Zero.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 1368,
+      "exportedPath": "lib/fonts/MathJax_Zero.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Regular.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 34160,
+      "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Bold.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 34464,
+      "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-Italic.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 19360,
+      "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Main-Italic.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 20832,
+      "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Math-BoldItalic.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 19776,
+      "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size1-Regular.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 5792,
+      "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size2-Regular.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 5464,
+      "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size3-Regular.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 3244,
+      "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Size4-Regular.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 5148,
+      "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_AMS-Regular.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 40808,
+      "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Regular.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 9600,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Calligraphic-Bold.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 9908,
+      "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Regular.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 21480,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Fraktur-Bold.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 22340,
+      "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Regular.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 12660,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Bold.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 15944,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_SansSerif-Italic.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 14628,
+      "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Script-Regular.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 11852,
+      "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Typewriter-Regular.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 17604,
+      "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Regular.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 1136,
+      "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
+      "dependencies": []
+    },
+    "lib/fonts/MathJax_Vector-Bold.woff": {
+      "modifiedTime": 1713350032919,
+      "sourceSize": 1116,
+      "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
+      "dependencies": []
+    }
+  }
+}
